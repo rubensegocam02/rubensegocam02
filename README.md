@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-- 🖥️ Trainee Web developer
+- 🖥️ Trainee Web Developer
 - 👨‍🏫 Profesor de Ed. Básica
 - 🤓 Siempre aprendiendo
 - 🇨🇱  Valdivia, Chile
