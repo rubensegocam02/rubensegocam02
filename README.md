@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Mucho gusto, soy Rubén 🤝</h1>
-<img src="https://i.imgur.com/yLBjOGi.png">
+<img src="https://i.imgur.com/Nsrr9JO.png">
 </div>
 <a href="https://www.linkedin.com/in/ruben-alejandro-segovia-cama%C3%B1o-b95085108" target="_blank" style="text-decoration:none;">
   <div style="display:inline-block; background-color:#0a66c2; color:white; padding:10px 20px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
